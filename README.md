@@ -1,3 +1,4 @@
 # hello-world
 Demo repository
-This file has been changed on this branch only.
+We've made a couple changes
+And now the changes we make here will eventually come back to Master.
